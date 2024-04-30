@@ -29,6 +29,8 @@
     color: #fff;
     font-size: 18px;
     position: relative;
+    font-family: 'Poppins';
+    font-weight: 400;
 }
 
 .header-menu a::after {
