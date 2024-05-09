@@ -18,6 +18,10 @@
 @import "./utilidades/cores.css";
 @import "./utilidades/formulario.css";
 
+/* Animacao */
+
+@import "./utilidades/animacao.css";
+
 /* Bicicletas */
 
 @import "./bicicletas/bicicletas.css";
