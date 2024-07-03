@@ -2,7 +2,7 @@
 
 Projeto pessoal desenvolvido apenas para praticar. 
 
-projeto com a ideia de construir um site onde o 
+Projeto com a ideia de construir um site onde o 
 usuário poderá comprar sua própria bicicleta.
 
 ### Link do projeto: 
