@@ -2,7 +2,7 @@
 
 Projeto pessoal desenvolvido apenas para praticar. 
 
-mini-projeto com a ideia de construir um site onde o 
+projeto com a ideia de construir um site onde o 
 usuário poderá construir sua própria bicicleta.
 
 ### Como inicar o projeto: 
