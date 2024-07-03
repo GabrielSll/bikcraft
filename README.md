@@ -3,7 +3,7 @@
 Projeto pessoal desenvolvido apenas para praticar. 
 
 projeto com a ideia de construir um site onde o 
-usuário poderá construir sua própria bicicleta.
+usuário poderá comprar sua própria bicicleta.
 
 ### Como inicar o projeto: 
 
