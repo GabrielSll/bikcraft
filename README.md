@@ -5,12 +5,10 @@ Projeto pessoal desenvolvido apenas para praticar.
 projeto com a ideia de construir um site onde o 
 usuário poderá comprar sua própria bicicleta.
 
-### Como inicar o projeto: 
+### Link do projeto: 
 
-- Basta baixar o código em formato zip.
-- Descompactar em uma pasta de sua preferência
-- Abrir a pasta no seu vscode ou outro
-- Rodar o arquivo com live server.
+- https://brikcraft-curso-origamid.netlify.app/
+
 
 <img src = "screenshots/topo.png">
 <img src = "screenshots/conteudo-principal.png">
@@ -23,3 +21,5 @@ usuário poderá comprar sua própria bicicleta.
 | ------ | ------ |
 | HTML5 | [https://www.w3schools.com/html/] |
 | CSS | [https://www.w3schools.com/css/] |
+| JS | [https://developer.mozilla.org/pt-BR/docs/Web/JavaScript] |
+
