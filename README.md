@@ -9,14 +9,6 @@ usuário poderá comprar sua própria bicicleta.
 
 - https://brikcraft-curso-origamid.netlify.app/
 
-## Fotos Ilustrativas: 
-
-<img src = "img/screenshots/foto-1.jpg">
-
-<img src = "img/screenshots/foto-2.jpg">
-
-<img src = "img/screenshots/foto-3.jpg">
-
 ## Tecnologias e Dependências
 
 | Name | Link |
